@@ -58,7 +58,7 @@
     "integration_disabled": false,
     "repo_type": "ssh",
     "repo_username": "git",
-    "ssh_key": "C:\\Users\\kknet\\.ssh\\id_rsa"
+    "ssh_key": ""
   },
   "meta": {
     "filename": "springreverb_lm386.kicad_prl",
